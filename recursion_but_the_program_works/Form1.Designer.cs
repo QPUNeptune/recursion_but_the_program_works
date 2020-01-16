@@ -97,7 +97,7 @@
             this.ok.Image = global::recursion_but_the_program_works.Properties.Resources.kon8;
             this.ok.Location = new System.Drawing.Point(12, 275);
             this.ok.Name = "ok";
-            this.ok.Size = new System.Drawing.Size(276, 68);
+            this.ok.Size = new System.Drawing.Size(276, 77);
             this.ok.TabIndex = 8;
             this.ok.Text = "gimme the result";
             this.ok.UseVisualStyleBackColor = true;
@@ -149,7 +149,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.ClientSize = new System.Drawing.Size(300, 355);
+            this.ClientSize = new System.Drawing.Size(300, 364);
             this.Controls.Add(this.Nth_order);
             this.Controls.Add(this.Ratio);
             this.Controls.Add(this.order_1);
